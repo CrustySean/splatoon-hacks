@@ -1,6 +1,9 @@
+ @font-face { font-family: Splatfont-2; src: url('https://candyfonts.com/wp-data/2018/10/16/10303/Splatfont2.ttf'); } 
+ @font-face { font-family:Splatfont-2; font-weight: bold; src: url('https://candyfonts.com/wp-data/2018/10/16/10303/Splatfont2.ttf');}
+
 h1 {
      text-align: center;
      font-family: 'Spatfont-2', cursive;
      font-size: 75px;
-     color: white;
+     color: black;
 }
