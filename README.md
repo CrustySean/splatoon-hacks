@@ -1,2 +1,2 @@
-# splatoon-hacks.github.io
+# splatoon-hacks
 Splatoon 2 hacks website
